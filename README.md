@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rohan Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-![Profile Views](https://shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=count&url=https://github.com/phsics.json)
+![Profile Views](https://komarev.com/ghpvc/?username=phsics&color=blue)
+
 
 
 ---
