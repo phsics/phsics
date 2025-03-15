@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+![Profile Views](https://shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=count&url=https://github.com/phsics.json)
+
+
 ---
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzB4aXJ1dDZsOTlta3BoZjBxN3h2MHYzZGYwYW53dHY1bnc2eTcwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500"/>
